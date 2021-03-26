@@ -11,7 +11,6 @@ namespace MyDictionary
             sozluk.Add("flower", "çiçek");
             sozluk.Add("dog", "köpek");
 
-            Console.WriteLine(sozluk.Count);
             sozluk.ShowMe();
         }
     }

@@ -39,11 +39,6 @@ namespace MyDictionary
             arrayValues[arrayValues.Length - 1] = value;
         }
 
-        public int Count
-        {
-            get { return arrayKeys.Length; }
-            
-        }
 
         public void ShowMe()
         {
