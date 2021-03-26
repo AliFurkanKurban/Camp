@@ -45,7 +45,7 @@ namespace MyDictionary
 
             for (int x = 0; x < arrayKeys.Length; x++)
             {
-                Console.WriteLine("Key : " + arrayKeys[x] + " = " + "Value : " + arrayValues[x]);
+                Console.WriteLine("Key -->" + arrayKeys[x] + " = " + "Value -->" + arrayValues[x]);
 
             }
         }
